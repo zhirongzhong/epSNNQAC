@@ -1,0 +1,18 @@
+{
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "epochs": 3,
+  "conv_features": 16,
+  "num_res_blocks": 1,
+  "ep_hidden": 32,
+  "num_ep_blocks": 1,
+  "v_ref_min": -5.0,
+  "v_ref_max": 5.0,
+  "gain": 0.1,
+  "offset": 0.0,
+  "bits": [null, 4],
+  "rounds": 1,
+  "seed": 42,
+  "num_workers": 0,
+  "cpu_threads": 1
+}
