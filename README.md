@@ -56,7 +56,7 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{ZHONG2026113710,
-title = {Expectation-Propagating Spiking Neural Networks with Quantization-Aware Compensation under extreme data quantization},
+title = {Expectation-Propagating Spiking Neural Networks with Quantization-Aware Compensation Under Extreme Data Quantization},
 journal = {Reliability Engineering & System Safety},
 pages = {113710},
 year = {2026},
