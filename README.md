@@ -4,7 +4,7 @@
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.10.2](https://img.shields.io/badge/PyTorch-1.10.2-red.svg)](https://pytorch.org/)
 
-Official implementation of Expectation-Propagating Spiking Neural Networks with Quantization-Aware Compensation Under Extreme Data Quantization, will publish soon in *Reliability Engineering and System Safety*.
+Official implementation of Expectation-Propagating Spiking Neural Networks with Quantization-Aware Compensation Under Extreme Data Quantization, published in *Reliability Engineering and System Safety*.
 
 > **Zhirong Zhong, Hongfei Ren, Zhongyi Zhang, Zhi Zhai, Meng Ma, Jinxin Liu**
 >
@@ -55,7 +55,16 @@ Training reloads the best validation checkpoint before testing; Bussgang statist
 If you use this work in your research, please cite:
 
 ```bibtex
-
+@article{ZHONG2026113710,
+title = {Expectation-Propagating Spiking Neural Networks with Quantization-Aware Compensation under extreme data quantization},
+journal = {Reliability Engineering & System Safety},
+pages = {113710},
+year = {2026},
+issn = {0951-8320},
+doi = {https://doi.org/10.1016/j.ress.2026.113710},
+url = {https://www.sciencedirect.com/science/article/pii/S0951832026015127},
+author = {Zhirong Zhong and Hongfei Ren and Zhongyi Zhang and Zhi Zhai and Meng Ma and Jinxin Liu}
+}
 ```
 
 ## License
